@@ -1,4 +1,3 @@
-```markdown
 # Resonance of Fate 전투 대사 한글 자막
 
 PC판 **Resonance of Fate 4K/HD Edition**의 전투 음성에 한글 자막과 화자 이름을 표시하는 비공식 오버레이입니다.
