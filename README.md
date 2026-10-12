@@ -1,5 +1,3 @@
-아래 내용을 그대로 `README.md`로 사용하면 됩니다.
-
 ```markdown
 # Resonance of Fate 전투 대사 한글 자막
 
